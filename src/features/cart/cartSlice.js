@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
   cart: [],
@@ -14,10 +14,15 @@ const initialState = {
 };
 
 const cartSlice = createSlice({
-  name: "cart",
+  name: 'cart',
   initialState,
   reducers: {
     addItem(state, action) {
+      // Check if item exists
+      const item = state.cart.find(
+        (item) => item.pizzaId === action.payload.pizzaId
+      );
+      if (item) return;
       // payload = newItem
       state.cart.push(action.payload);
     },
