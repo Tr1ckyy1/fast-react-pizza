@@ -8,7 +8,7 @@ export async function action({ request, params }) {
   return null;
 }
 
-function UpdateOrder({ order }) {
+function UpdateOrder() {
   const fetcher = useFetcher();
   return (
     <fetcher.Form method="PATCH" className="text-right">
