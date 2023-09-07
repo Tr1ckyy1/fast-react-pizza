@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>This is a small pizza ordering project. This website features a modern and intuitive design built with Tailwind Css. The functionality is made of advanced React tools & libraries.</p>
+<p>This is a small pizza ordering project. This website features a modern and intuitive design built with Tailwind CSS. The functionality is made of advanced React tools & libraries.</p>
 
 👉 Live Demo: <a target="_blank" href='https://pizza-app-v1.netlify.app'>Pizza Demo</a>
 
