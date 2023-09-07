@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>This is a small pizza ordering project. This website features a modern and intuitive design, built with advanced React tools & libraries.</p>
+<p>This is a small pizza ordering project. This website features a modern and intuitive design built with Tailwind Css. The functionality is made of advanced React tools & libraries.</p>
 
 👉 Live Demo: <a target="_blank" href='https://pizza-app-v1.netlify.app'>Pizza Demo</a>
 
@@ -19,4 +19,4 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/omar-jang
 
 ## Acknowledgments
 
-This project was made from [a udemy course](https://www.udemy.com/course/the-ultimate-react-course)
+This project was made from [udemy course](https://www.udemy.com/course/the-ultimate-react-course)
